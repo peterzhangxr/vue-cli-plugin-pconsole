@@ -1,0 +1,12 @@
+{
+  "name": "vue-cli-plugin-pconsole",
+  "version": "1.0.0",
+  "description": "这只是一个一个vue cli插件的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
